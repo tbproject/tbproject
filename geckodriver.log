@@ -1,0 +1,164 @@
+1514916344859	geckodriver	INFO	geckodriver 0.19.1
+1514916344862	geckodriver	INFO	Listening on 127.0.0.1:60327
+1514916345067	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.22hhz0zx3lDf"
+
+(firefox:3497): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(firefox:3497): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(firefox:3497): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(firefox:3497): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(firefox:3497): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(firefox:3497): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(firefox:3497): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:3497): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:3497): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(firefox:3497): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.
+1514916350605	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:3547): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(/usr/lib/firefox/firefox:3547): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(/usr/lib/firefox/firefox:3547): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(/usr/lib/firefox/firefox:3547): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(/usr/lib/firefox/firefox:3547): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(/usr/lib/firefox/firefox:3547): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3547): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:3547): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:3547): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(/usr/lib/firefox/firefox:3547): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.
+1514916359051	Marionette	INFO	Listening on port 42603
+1514916359142	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514916359275	Marionette	DEBUG	Register listener.js for window 2147483649
+1514916359637	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514916359846	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514916359892	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514916359892	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514916360384	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "about:neterror?e=connectionFailure&u=http%3A//localhost%3A8000/&c=UTF-8&f=regular&d=Firefox%20can%E2%80%99t%20establish%20a%20connection%20to%20the%20server%20at%20localhost%3A8000."
+Promise rejected after context unloaded: Message manager disconnected
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 3547, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-1rFieA/firefox-57.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1514916393255	geckodriver	INFO	geckodriver 0.19.1
+1514916393257	geckodriver	INFO	Listening on 127.0.0.1:35445
+1514916394405	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.UlFJRvtiKs5L"
+
+(firefox:3610): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(firefox:3610): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(firefox:3610): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(firefox:3610): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(firefox:3610): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(firefox:3610): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(firefox:3610): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:3610): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:3610): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(firefox:3610): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.
+1514916396419	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:3663): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(/usr/lib/firefox/firefox:3663): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(/usr/lib/firefox/firefox:3663): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(/usr/lib/firefox/firefox:3663): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(/usr/lib/firefox/firefox:3663): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(/usr/lib/firefox/firefox:3663): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(/usr/lib/firefox/firefox:3663): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:3663): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:3663): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(/usr/lib/firefox/firefox:3663): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.
+1514916398883	Marionette	INFO	Listening on port 43651
+1514916398944	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514916399057	Marionette	DEBUG	Register listener.js for window 2147483649
+1514916399104	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514916399195	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514916399195	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514916399212	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8000/"
+1514916399239	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8000/"
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 3663, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-1rFieA/firefox-57.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1514989242257	geckodriver	INFO	geckodriver 0.19.1
+1514989242423	geckodriver	INFO	Listening on 127.0.0.1:32881
+1514989243645	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.gZDUv57IthLH"
+
+(firefox:2211): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(firefox:2211): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(firefox:2211): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(firefox:2211): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(firefox:2211): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(firefox:2211): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(firefox:2211): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:2211): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(firefox:2211): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(firefox:2211): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.
+1514989244828	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:2272): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(/usr/lib/firefox/firefox:2272): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(/usr/lib/firefox/firefox:2272): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(/usr/lib/firefox/firefox:2272): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(/usr/lib/firefox/firefox:2272): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(/usr/lib/firefox/firefox:2272): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(/usr/lib/firefox/firefox:2272): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:2272): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(/usr/lib/firefox/firefox:2272): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(/usr/lib/firefox/firefox:2272): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.
+1514989248691	Marionette	INFO	Listening on port 46705
+1514989248867	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514989249018	Marionette	DEBUG	Register listener.js for window 2147483649
+1514989249048	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514989249128	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514989249129	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514989249152	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8000/"
+1514989249169	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8000/"
+1514989249274	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 123"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:123 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:138 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:52 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:31 < uninit()@resource://activity-stream/lib/Store.jsm:151 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:266 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4509 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2281 < GeckoDriver.prototype.quit()@driver.js:3307 < despatch()@server.js:553 < execute()@server.js:527 < onPacket/<()@server.js:502 < onPacket()@server.js:501 < _onJSONObjectReady/<()@transport.js:501
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 2272, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-1rFieA/firefox-57.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
