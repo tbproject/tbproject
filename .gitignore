@@ -1,3 +1,5 @@
 db.sqlite3
-see.kee
+se.kee
 __pycache__
+*.log
+book
