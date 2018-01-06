@@ -32,7 +32,7 @@ def get_env_value(var_name):
 SECRET_KEY = get_env_value("SECRET_KEY")
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+# DEBUG = True
 
 ALLOWED_HOSTS = []
 
