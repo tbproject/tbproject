@@ -3,3 +3,5 @@ se.kee
 __pycache__
 *.log
 book
+.coverage
+htmlcov

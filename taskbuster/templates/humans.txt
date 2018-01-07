@@ -3,13 +3,14 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Vassily -- Developer -- @VassilyLa
 
 # THANKS
 
-    <name>
+    Marina Mele, based on whose work this site is based
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+    Python, Django, Selenium
