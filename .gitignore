@@ -2,6 +2,7 @@ db.sqlite3
 se.kee
 __pycache__
 *.log
+*.pyc
 book
 .coverage
 htmlcov
