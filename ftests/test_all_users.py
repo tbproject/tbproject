@@ -23,6 +23,7 @@ class HomeNewVisitorTest(StaticLiveServerTestCase):
     def test_home_title(self):
         url = self.get_full_url("home")
         self.browser.get(url)
+        self.browser.implicitly_wait(3)
         self.assertIn("TaskBuster", self.browser.title)
 
     def test_h1_css(self):
@@ -41,6 +42,7 @@ class HomeNewVisitorTest(StaticLiveServerTestCase):
         self.assertNotIn("Not Found", self.browser.title)
         self.browser.get(url_humans)
         self.assertNotIn("Not Found", self.browser.title)
+        self.browser.implicitly_wait(3)
 
     def test_internationalization(self):
         for lang, h1text in [
@@ -51,6 +53,7 @@ class HomeNewVisitorTest(StaticLiveServerTestCase):
             self.browser.get(self.get_full_url("home"))
             h1 = self.browser.find_element_by_tag_name("h1")
             self.assertEqual(h1.text, h1text)
+            self.browser.implicitly_wait(3)
 
     def test_localization(self):
         today = date.today()
@@ -61,6 +64,7 @@ class HomeNewVisitorTest(StaticLiveServerTestCase):
             non_local_date = self.browser.find_element_by_id("non-local-date")
             self.assertEqual(formats.date_format(today, use_l10n=True), local_date.text)
             self.assertEqual(today.strftime("%Y-%m-%d"), non_local_date.text)
+            self.browser.implicitly_wait(3)
 
     def test_timezone(self):
         self.browser.get(self.get_full_url("home"))
@@ -69,6 +73,7 @@ class HomeNewVisitorTest(StaticLiveServerTestCase):
         ny = self.browser.find_element_by_id("time-ny").text
         self.assertNotEqual(tz, utc)
         self.assertNotIn(ny, [tz, utc])
+        self.browser.implicitly_wait(3)
 
 
 
