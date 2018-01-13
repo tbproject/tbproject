@@ -1,0 +1,4 @@
+#!/bin/bash
+# This hook is sourced after this virtualenv is activated.
+export DJANGO_SETTINGS_MODULE="taskbuster.settings.dev"
+export SECRET_KEY="uh#kr0g=h98$4s9%msl+91kq=%7m3nmo#74tv%pz4!jn!2_&gc"
